@@ -93,13 +93,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.86.84.184:8081/repository/my_release/</url>
+	      <url>http://52.87.5.171:8081/repository/my-maven-project-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.86.84.184:8081/repository/my_snapshot/</url>
+	      <url>http://52.87.5.171:8081/repository/my-maven-project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
